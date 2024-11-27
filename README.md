@@ -14,7 +14,7 @@ A simple and extensible sound management system for Unity, designed to handle au
 ## Getting Started
 
 ### 1. Install and Setup
-- Download the [SoundManager](#../SoundManager.unitypackage).
+- Download the `SoundManager.unitypackage`.
 - Open the downloaded `.unitypackage` file and import all the assets.
 - After importing, you should see the necessary scripts and resources in your `Assets` folder.
 
